@@ -23,7 +23,7 @@ Kung Gusto Mo Ito Gamitin, I-download Ito Sa pamamagitan ng:
 ```bash
 npm i fca-tanjiro-remake
 ```
-o
+O kaya
 ```bash
 npm install fca-tanjiro-remake
 ```
