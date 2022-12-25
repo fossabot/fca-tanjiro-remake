@@ -1,4 +1,6 @@
 # Note
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ffca-tanjiro-remake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ffca-tanjiro-remake?ref=badge_shield)
+
 (If you prefer English Language, Please Use [fca-horizon-remake](https://npmjs.com/package/fca-horizon-remake), Make By Kanzu Wakazaki)
 
 ## Abiso!
@@ -128,3 +130,7 @@ O Mas Madali (Propesyonal) Maaari Mong Gamitin => [c3c-fbstate](https://github.c
 ## FAQ
 
 FAQ => [Link](https://github.com/Schmavery/facebook-chat-api#FAQS)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ffca-tanjiro-remake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftanjirokamado0806%2Ffca-tanjiro-remake?ref=badge_large)
